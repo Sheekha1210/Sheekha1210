@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sheekha1210/Sheekha1210/blob/main/Github%20banner.jfif)
 <h1 align="center">Hi 👋, I'm Sheekha Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/49310523/214232283-c6302afe-2975-49c5-9b0b-54422f4b2fbc.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheekha1210&label=Profile%20views&color=0e75b6&style=flat" alt="sheekha1210" /> </p>
 
